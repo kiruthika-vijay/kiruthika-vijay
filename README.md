@@ -10,9 +10,9 @@ I am a passionate full-stack developer focused on leveraging cutting-edge techno
 - **Other Interests**: AI, Data Science, Cloud Security
 
 ### 🌟 Featured Projects:
-- **AI Image Generation App**: A cutting-edge application using DALL-E and MidJourney tools to generate images from text input. [GitHub Link]
-- **ShopSilo E-commerce Platform**: Full-stack e-commerce platform with extensive API integration, built using React and .NET. [GitHub Link]
-- **Human Assault Detection System**: An AI-powered model for recognizing assault scenarios using human activity recognition. [GitHub Link]
+- **AI Image Generation App**: A cutting-edge application using DALL-E and MidJourney tools to generate images from text input. [GitHub Link](https://github.com/kiruthika-vijay/Dall-E-2.0--MERN-AI)
+- **ShopSilo E-commerce Platform**: Full-stack e-commerce platform with extensive API integration, built using React and .NET. [GitHub Link](https://github.com/kiruthika-vijay/ShopSiloApp)
+- **Human Assault Detection System**: An AI-powered model for recognizing assault scenarios using human activity recognition. [[GitHub Link](https://github.com/kiruthika-vijay/Human-Assault-Recognition-using-Human-Activity-Information-System-with-AI)]
 
 ### 📫 Contact:
 - **Email**: kiruthikasrivijay@gmail.com
