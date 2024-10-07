@@ -1,16 +1,32 @@
-## Hi there 👋
+## 👩‍💻 Kiruthika Vijay — Full-Stack Developer | AI Enthusiast | MERN Stack Expert
 
-<!--
-**kiruthika-vijay/kiruthika-vijay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate full-stack developer focused on leveraging cutting-edge technologies to build innovative solutions that make an impact. I specialize in both front-end and back-end development using the MERN stack, AI-powered applications, and full e-commerce solutions using .NET.
 
-Here are some ideas to get you started:
+### 🚀 Skills & Technologies:
+- **Front-End**: React, HTML, CSS, JavaScript
+- **Back-End**: Node.js, C# .NET, Python
+- **Database**: MongoDB, MySQL, SQL Server
+- **Tools**: Git, Power BI, Docker, Postman
+- **Other Interests**: AI, Data Science, Cloud Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects:
+- **AI Image Generation App**: A cutting-edge application using DALL-E and MidJourney tools to generate images from text input. [GitHub Link]
+- **ShopSilo E-commerce Platform**: Full-stack e-commerce platform with extensive API integration, built using React and .NET. [GitHub Link]
+- **Human Assault Detection System**: An AI-powered model for recognizing assault scenarios using human activity recognition. [GitHub Link]
+
+### 📫 Contact:
+- **Email**: kiruthikasrivijay@gmail.com
+- **LinkedIn**: [https://linkedin.com/in/kiruthika-vijay03](https://linkedin.com/in/kiruthika-vijay03)
+- **GitHub**: [https://github.com/kiruthika-vijay](https://github.com/kiruthika-vijay)
+
+### 🏅 Certifications:
+- Java & Python Basics - HackerRank
+- Power BI Job Simulation - PwC Switzerland
+- Complete Web Developer - Udemy
+- Master Course in Cloud Security 3.0
+- Foundational C# with Microsoft - freeCodeCamp
+- IIT BOMBAY CPP, JAVA Training Exam
+
+### ⚡ Extra-curricular:
+- Organized CYBORGS'22 event at SRM-VEC
+- Participated in workshops on AR/VR and Brain-Computer Interface
